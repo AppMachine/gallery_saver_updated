@@ -17,6 +17,6 @@ Saves images and videos to gallery and photos.
   s.dependency 'Flutter'
   s.swift_version = '5.0'
 
-  s.ios.deployment_target = '14.0'
+  s.ios.deployment_target = '12.0'
 end
 
